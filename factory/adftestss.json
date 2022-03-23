@@ -1,0 +1,9 @@
+{
+	"name": "adftestss",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "469d11d9-19c4-4446-9888-bca0d46ab0f7",
+		"tenantId": "332be746-fff1-4d7e-94ff-134a183e8ed1"
+	}
+}
