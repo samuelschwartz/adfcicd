@@ -1,0 +1,12 @@
+{
+	"name": "SAMUEL-DF-DEV",
+	"properties": {
+		"globalParameters": {
+			"waittime": {
+				"type": "int",
+				"value": 5
+			}
+		}
+	},
+	"location": "eastus"
+}
