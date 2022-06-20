@@ -1,0 +1,6 @@
+{
+	"waittime": {
+		"type": "int",
+		"value": 5
+	}
+}
