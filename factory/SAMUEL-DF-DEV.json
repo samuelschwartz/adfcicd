@@ -2,7 +2,7 @@
 	"name": "SAMUEL-DF-DEV",
 	"properties": {
 		"globalParameters": {
-			"waittime_dev": {
+			"waittime": {
 				"type": "int",
 				"value": 5
 			}
